@@ -33,3 +33,7 @@
 -  useEffect
 -  Sweet Alert on Create, Edit and Delete
 
+![image](https://github.com/apurba3050/BookStore/assets/63312658/15d71562-0e38-4529-8dd9-18ef473d99ad)
+
+
+![image](https://github.com/apurba3050/BookStore/assets/63312658/f0a2afbe-36bb-458f-9d33-90a5f56234d2)
