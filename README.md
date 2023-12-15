@@ -1,4 +1,4 @@
-# Book Store Application Using .NET Core, React.js and MYSQL
+# Book Store Application Using .NET Core, C# React.js and MSSQL
 
 ## Solution Technologies
 
