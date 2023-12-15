@@ -10,7 +10,7 @@
 
 ### On Backend project
 
-- CURD Operation on C#
+- CURD Operation by C#
 -  Entities
 -  Context
 -  ORM
